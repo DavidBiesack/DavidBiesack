@@ -7,5 +7,9 @@ Previously, David worked in SAS R&D for 28 years, most recently leading SAS' API
 
 David's secret ambition is to narrate BBC nature documentaries. 
 
-Find David at <a rel="me" href="https://mastodon.social/@DavidBiesack">@DavidBiesack@mastodon.social</a>
+Find David at [@DavidBiesack@mastodon.social](https://mastodon.social/@DavidBiesack)
+<!--
+Special tag for Mastadon to mark this profile as verified:
+<a rel="me" href="https://mastodon.social/@DavidBiesack">Mastodon</a>
+-->
 and [davidbiesack on LinkedIn](https://www.linkedin.com/in/davidbiesack/)
