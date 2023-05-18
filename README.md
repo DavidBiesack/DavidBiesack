@@ -7,11 +7,11 @@ Previously, David worked in SAS R&D for 28 years, most recently leading SAS' API
 David has a BS in Computer Science from Purdue University and an MS in CS from Rensselaer Polytechnic Institute. 
 
 
-Find David at <a rel="me" href="https://mastodon.social/@DavidBiesack">Mastodon</a>
+Find David at <a rel="me" href="https://fosstodon.org/@DavidBiesack">Fosstodon</a>
 and <a href="https://www.linkedin.com/in/davidbiesack/">davidbiesack on LinkedIn</a>
 
 David's secret ambition is to narrate BBC nature documentaries. 
 <!-- this is a special tag for Mastadon to mark this profile as verified.
 Unfortunately, GitHub strips it if I save it as normal Markdown link,
 so I link normally above and then tunnel the needed link text via a tag property -->
-<span align='<a rel="me" href="https://mastodon.social/@DavidBiesack"></a>'/>
+<span align='<a rel="me" href="https://fosstodon.org/@DavidBiesack">Fosstodon</a>'
