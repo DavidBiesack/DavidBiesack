@@ -6,9 +6,9 @@ Previously, David worked in SAS R&D for 28 years, most recently leading SAS' API
 
 David has a BS in Computer Science from Purdue University and an MS in CS from Rensselaer Polytechnic Institute. 
 
-
 Find David on <a rel="me" href="https://fosstodon.org/@DavidBiesack">Fosstodon</a>
-and <a href="https://www.linkedin.com/in/davidbiesack/">davidbiesack on LinkedIn</a>
+and <a href="https://www.linkedin.com/in/davidbiesack/">davidbiesack on LinkedIn</a>;
+and occasionally opining about APIs on [API Design Matters](https://apidesignmatters.substack.com).
 
 David's secret ambition is to narrate BBC nature documentaries. 
 <!-- this is a special tag for Fosstadon to mark this profile as verified.
