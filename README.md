@@ -8,7 +8,7 @@ David has a BS in Computer Science from Purdue University and an MS in CS from R
 
 Find David on <a rel="me" href="https://fosstodon.org/@DavidBiesack">Fosstodon</a>
 and <a href="https://www.linkedin.com/in/davidbiesack/">davidbiesack on LinkedIn</a>
-and occasionally opining about APIs on [API Design Matters](https://apidesignmatters.github.io).
+and occasionally opining about APIs on [API Design Matters](https://apidesignmatters.org).
 
 David's secret ambition is to narrate BBC nature documentaries. 
 <!-- this is a special tag for Fosstadon to mark this profile as verified.
